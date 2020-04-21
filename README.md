@@ -9,3 +9,7 @@ Both these external dependencies are in the TesseractDllAndTraining folder. Copy
 
 The program expects the tesseract .dlls and the training data files to be in the same directory it runs from.
 </p>
+<p>
+  Check the SRC branch for the project source<br>
+  Check the BIN branch for the binary
+  </p>
